@@ -1,0 +1,132 @@
+body{
+    font-family: 'Open Sans', sans-serif;
+    margin: 0%;
+}
+.siteIcon{
+    height: 50px;
+}
+.courses{
+    text-align: center;
+    font-family: roboto;
+}
+.cradit{
+    padding-bottom: 0px;
+    text-align: center;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0%;
+}
+.cradit a{
+    text-decoration: none;
+    color: orange;
+    font-family: 'Courier New', Courier, monospace;
+    margin-bottom: 0%;
+}
+
+.signinButton{
+    color: white;
+    background-color: #21B573;
+    border: none;
+    border-radius: 20px;
+    padding: 10px 15px;
+}
+
+.nevSection{
+background-color:#F0FFF0;
+
+}
+firstSection{
+    margin-top: 0%;
+    margin-bottom: 100px;
+}
+.nev{
+background-color: #F0FFF0;
+display: cover;
+}
+
+.sections{
+    margin-top: 30px;
+    margin-bottom: 100px;
+    padding-bottom: 50px;
+}
+.Section1para1{
+    color: red;
+    width: 500;
+}
+.Section1para2{
+    font-family: roboto;
+    font-size: 50px;
+    font-weight: 500;
+}
+.greenHeading{
+    color: #21B573;
+}
+
+.section2Image{
+    height: 100px;
+    width: 100px;
+}
+.miniSections{
+    text-align: center;
+    color: purple;
+    background-color: #F0FFF0;
+    padding: 20px 20px;
+    border-radius: 10px;
+    margin-bottom: 10px;
+}
+.miniSections h5{
+    font-family: roboto;
+}
+.miniSections:hover{
+    box-shadow: 10px 10px 20px lightgray;
+}
+
+.courseImg{
+    padding: 15px;
+}
+.cards h5{
+    font-family: roboto;
+}
+.card{
+    border-radius: 20px;
+}
+
+.card:hover{
+    box-shadow: 10px 10px 20px lightgray;  
+}
+.Testimonial{
+    text-align: center;
+}
+.Testimonial h3{
+    font-family: roboto;
+}
+.testiImage{
+    padding: 20px;
+    height: 150px;
+}
+.review{
+    text-align: left;
+    padding: 0px;
+}
+.foter{
+    padding: 0%;
+}
+.footer{
+    background-color:  #282531;
+    margin-bottom: 0%;
+    color: white;
+    padding: 10px 20px;
+    padding-top: 50px;
+
+}
+
+.footer ul{
+    list-style: none;
+    font-size: 15px;
+}
+
+.footer p{
+    font-size: 15px;
+}
+.footer h3{
+    font-family: roboto;
+}
